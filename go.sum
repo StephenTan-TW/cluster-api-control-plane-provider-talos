@@ -16,8 +16,8 @@ github.com/ProtonMail/go-crypto v1.4.1 h1:9RfcZHqEQUvP8RzecWEUafnZVtEvrBVL9BiF67
 github.com/ProtonMail/go-crypto v1.4.1/go.mod h1:e1OaTyu5SYVrO9gKOEhTc+5UcXtTUa+P3uLudwcgPqo=
 github.com/ProtonMail/gopenpgp/v3 v3.4.1 h1:K7uUhSHSJxORZ+RuHpilTT6S4MA2whCRlXNwLqd0+ys=
 github.com/ProtonMail/gopenpgp/v3 v3.4.1/go.mod h1:bGdV9f6edhmd581wzXsQCTKdH8bXBbyhkgDKPjwPc6U=
-github.com/StephenTan-TW/cluster-api-bootstrap-provider-talos v0.6.14-0.20260929022448-aaa0ae2f7270 h1:8tPB3ugr7zK6P40CMv0zO8BzsqqFgLM8ijMhxVC5z/8=
-github.com/StephenTan-TW/cluster-api-bootstrap-provider-talos v0.6.14-0.20260929022448-aaa0ae2f7270/go.mod h1:To04/CamJgscdhMt5ADsVAlvFDM6FDOT4DmZwT9TI88=
+github.com/StephenTan-TW/cluster-api-bootstrap-provider-talos v0.6.14-0.20260929030744-9fef14ca6878 h1:56gTKLjbMEZZaPdaVZY2OM94+oDdM6sJ+p9hs4L2Xkg=
+github.com/StephenTan-TW/cluster-api-bootstrap-provider-talos v0.6.14-0.20260929030744-9fef14ca6878/go.mod h1:To04/CamJgscdhMt5ADsVAlvFDM6FDOT4DmZwT9TI88=
 github.com/adrg/xdg v0.5.3 h1:xRnxJXne7+oWDatRhR1JLnvuccuIeCoBu2rtuLqQB78=
 github.com/adrg/xdg v0.5.3/go.mod h1:nlTsY+NNiCBGCK2tpm09vRqfVzrc2fLmXGpBLF0zlTQ=
 github.com/antlr4-go/antlr/v4 v4.13.1 h1:SqQKkuVZ+zWkMMNkjy5FZe5mr5WURWnlpmOuzYWrPrQ=

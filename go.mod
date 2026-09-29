@@ -174,4 +174,4 @@ require (
 	sigs.k8s.io/yaml v1.6.0 // indirect
 )
 
-replace github.com/siderolabs/cluster-api-bootstrap-provider-talos => github.com/StephenTan-TW/cluster-api-bootstrap-provider-talos v0.6.14-0.20260929022448-aaa0ae2f7270
+replace github.com/siderolabs/cluster-api-bootstrap-provider-talos => github.com/StephenTan-TW/cluster-api-bootstrap-provider-talos v0.6.14-0.20260929030744-9fef14ca6878
